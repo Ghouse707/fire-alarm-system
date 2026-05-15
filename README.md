@@ -29,7 +29,7 @@ Fire-Smoke-Detection-Alarm-System/
 └── README.md
 Installation
 1. Clone Repository
-git clone https://github.com/your-username/Fire-Smoke-Detection-Alarm-System.git
+git clone https://github.com/Ghouse707/Fire-Smoke-Detection-Alarm-System.git
 2. Open Project Folder
 cd Fire-Smoke-Detection-Alarm-System
 3. Install Required Libraries
