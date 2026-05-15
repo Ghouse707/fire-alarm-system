@@ -69,10 +69,33 @@ CCTV integration
 Snapshot saving
 Cloud deployment
 Mobile app alerts
-Author
 
+# Model File
+
+This project requires a fire/smoke detection YOLO model file.
+
+Download any YOLO fire/smoke detection model (`.pt` file) and place it inside the project folder.
+
+Example:
+
+```bash
+smoke.pt
+
+Then update the model path in the code if needed:
+
+MODEL_PATH = "smoke.pt"
+
+You can use:
+
+Custom trained YOLO fire detection models
+YOLOv8 fire/smoke models available online
+
+Make sure the model supports fire and smoke detection classes.
+
+
+
+Author
 Ghouse Pasha
 
 License
-
 This project is developed for educational purposes only.
